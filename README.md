@@ -1,6 +1,8 @@
 Flutter Note App
 
-Featires
+Features
+
+
 
 > Add note
 > Edit Note
